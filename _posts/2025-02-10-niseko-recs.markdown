@@ -24,8 +24,8 @@ tags: ["skiing", "snowboarding", "travel", "japan"]
     - If you hike up from Gate 3, you can actually ride around the back of the mountain and into the Annupuri area, which is fun. Bring avalanche gear (you can rent it if you want in town in about 5 minutes - it's a transceiver, shovel, and probe in a backpack).
     - There is a ravine between the Hirafu Gondola and Hanazono Quad Lift #2 that you can drop in anywhere and get to a cat track that connects to the Hirafu gondola base. Part of the cat track is slightly uphill. If you get stuck, you can drop off it skiers left, and there is enough grade there to ride back to base. Don’t go too low as there is a creek below, but there are a lot of quality spots here where a lot of ski/snowboard movies are filmed.
     - We accessed the ravine by hiking up skiers left from the quad, going through Gate 9, and dropping in from the top of Swinging Monkey chair. We found some fun smaller cliffs off that face.
-    - On Mountain Lunch:
-      - Ate at almost Boyo-so every day. It was great.
+- On Mountain Lunch:
+  - Ate at almost Boyo-so every day. It was great.
 - Backcountry
   - We booked a day-long tour through [Niseko Photography & Guiding](https://www.nisekophotography.com/resort-ski-snowboard-tours-3/). It was absolutely incredible. A guide will show you around Niseko, assess your skill in-resort, you’ll do a ~1 hour hike out of the resort up one of the peaks of Niseko and then down a seemingly endless backcountry run of waist deep snow.
   - The guide provided avy gear and drove us home after the backcountry run.

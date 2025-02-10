@@ -1,8 +1,8 @@
 ---
 author: "@mattjcline"
 title: "Niseko Recommendations"
-created: "20250210"
-updated: "20250210"
+date_created: "20250210"
+date_modified: "20250210"
 tags: ["skiing", "snowboarding", "travel", "japan"]
 ---
 

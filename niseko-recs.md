@@ -6,9 +6,7 @@ updated: "20250210"
 tags: ["skiing", "snowboarding", "travel", "japan"]
 ---
 
-**@mattjcline's Niseko Recommendations**
-
-**Ripping**
+## Ripping
 
 - Grand Hirafu: Village at the base of Niseko resort. Essentially the Vail of Japan. There are a lot of ex-pats from Hong Kong and a ton of Australians in Hirafu. It's less traditional Japan. Regardless, it is so epic and huge. So much snow. You could easily spend 4-5 days there, but it is worth exploring even beyond. Get the entire mountain pass. It's really 4 resorts smashed together on the side of a volcano, and you can get individual resort passes, but you want the freedom to go everywhere. And you should explore. Almost everything you see is doable or hikeable. Don't be afraid of avy gates either. Japan is relatively flat, and the danger of avalanche is pretty low. Enjoy your time with Jagata-kun or “fat little potato boy” the beloved mascot of Niseko.
 - Gear Rental
@@ -37,7 +35,7 @@ tags: ["skiing", "snowboarding", "travel", "japan"]
   - Unless you're night skiing at Niseko just get the 8hr day pass. Night skiing is sick though there, and you can get a separate pass for that if you decide.
   - The mountain is not very steep which can be a problem with a lot of powder. The ski map is deceiving, after the first day we spent some time with Google Maps looking at where the lifts are and the topography to better understand the resort. The piste gets skied off pretty quickly but powder tends to stick around in the trees so that's where we spent most of our time.
 
-**In town:**
+## In town
 
 - I’ve only ever stayed at Niseko Park Hotel. It has a great onsen, delicious breakfast buffet, and is mostly occupied by Japanese.
 - Bars
@@ -46,7 +44,7 @@ tags: ["skiing", "snowboarding", "travel", "japan"]
   - Buddha Bar
   - Wild Bill's
   - Bigfoot Lodge
-  - Baddies - a true snowboard bar, it's super fun. Sounds silly, but every pro snowboarder that cruises through Niseko stops in here. They also have a tattoo parlor in the bar... careful
+  - Baddies - a true snowboard bar, it's super fun. Sounds silly, but every pro snowboarder that cruises through Niseko stops in here. They also have a tattoo parlor in the bar... careful.
   - The Bunker
   - The Edge
   - Niseko Taproom

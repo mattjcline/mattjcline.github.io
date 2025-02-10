@@ -1,8 +1,10 @@
 ---
+layout: post
 author: "@mattjcline"
 title: "Niseko Recommendations"
-date_created: "20250210"
-date_modified: "20250210"
+date_created: "2025-02-10"
+date_modified: "2025-02-10"
+permalink: "/niseko-recs/"
 tags: ["skiing", "snowboarding", "travel", "japan"]
 ---
 

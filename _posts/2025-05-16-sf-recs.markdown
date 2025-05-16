@@ -8,8 +8,6 @@ permalink: "/sf-recs/"
 tags: ["food", "cocktails", "travel"]
 ---
 
-# SF Recommendations
-
 ## Cocktails
 
 *   [Pacific Cocktail Haven](https://maps.app.goo.gl/FtAmisJWHprUB6E86) - As of 2025 this was #16 on the Top 50 Bars in North America. They’re pros. Drinks ~$20 each. 
